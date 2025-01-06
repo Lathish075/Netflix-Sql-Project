@@ -12,7 +12,7 @@ select distinct(country) from netflix
 
 
 
--- 12 BUISNESS PROBLEMS --
+-- 10 BUISNESS PROBLEMS --
 
 
 -- 1. Count the number of Movies vs TV Shows --
